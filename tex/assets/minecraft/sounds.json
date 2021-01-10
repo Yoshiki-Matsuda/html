@@ -1,0 +1,212 @@
+{
+     "custom.alien": {
+            "sounds": [
+                    "custom/alien"
+            ]
+     },
+	 "custom.ok": {
+            "sounds": [
+                    "custom/ok"
+            ]
+     },
+	 "custom.seyakate": {
+            "sounds": [
+                    "custom/seyakate"
+            ]
+     },
+	 "custom.midorikawa": {
+            "sounds": [
+                    "custom/midorikawa"
+            ]
+     },
+	 "custom.midorikawa_completed": {
+            "sounds": [
+                    "custom/midorikawa_completed"
+            ]
+     },
+	 "custom.shotgun": {
+            "sounds": [
+                    "custom/shotgun"
+            ]
+     },
+	 "custom.sarara2_1": {
+            "sounds": [
+                    "custom/sarara2_1"
+            ]
+     },
+	 "custom.sarara2_2": {
+            "sounds": [
+                    "custom/sarara2_2"
+            ]
+     },
+	 "custom.sarara2_3": {
+            "sounds": [
+                    "custom/sarara2_3"
+            ]
+     },
+	 "custom.sarara2_4": {
+            "sounds": [
+                    "custom/sarara2_4"
+            ]
+     },
+	 "custom.sarara2_5": {
+            "sounds": [
+                    "custom/sarara2_5"
+            ]
+     },
+	 "custom.sarara2_6": {
+            "sounds": [
+                    "custom/sarara2_6"
+            ]
+     },
+	 "custom.midorikawa_2nd": {
+            "sounds": [
+                    "custom/midorikawa_2nd"
+            ]
+     },
+	 "custom.midorikawa_3rd": {
+            "sounds": [
+                    "custom/midorikawa_3rd"
+            ]
+     },
+	 "custom.midorikawa_late": {
+            "sounds": [
+                    "custom/midorikawa_late"
+            ]
+     },
+	 "custom.sarara_curse": {
+            "sounds": [
+                    "custom/sarara_curse"
+            ]
+     },
+	 "custom.midorikawa_final": {
+            "sounds": [
+                    "custom/midorikawa_final"
+            ]
+     },
+	 "custom.sarara2_7": {
+            "sounds": [
+                    "custom/sarara2_7"
+            ]
+     },
+	 "custom.sarara2_8": {
+            "sounds": [
+                    "custom/sarara2_8"
+            ]
+     },
+	 "custom.sarara2_9": {
+            "sounds": [
+                    "custom/sarara2_9"
+            ]
+     },
+	 "custom.sarara2_10": {
+            "sounds": [
+                    "custom/sarara2_10"
+            ]
+     },
+	 "custom.sarara2_11": {
+            "sounds": [
+                    "custom/sarara2_11"
+            ]
+     },
+	 "custom.sarara2_12": {
+            "sounds": [
+                    "custom/sarara2_12"
+            ]
+     },
+	 "custom.sarara2_13": {
+            "sounds": [
+                    "custom/sarara2_13"
+            ]
+     },
+	 "custom.sarara2_14": {
+            "sounds": [
+                    "custom/sarara2_14"
+            ]
+     },
+	 "custom.sarara3_1": {
+            "sounds": [
+                    "custom/sarara3_1"
+            ]
+     },
+	 "custom.sarara3_2": {
+            "sounds": [
+                    "custom/sarara3_2"
+            ]
+     },
+	 "custom.sarara3_3": {
+            "sounds": [
+                    "custom/sarara3_3"
+            ]
+     },
+	 "custom.sarara3_4": {
+            "sounds": [
+                    "custom/sarara3_4"
+            ]
+     },
+	 "custom.sarara3_5": {
+            "sounds": [
+                    "custom/sarara3_5"
+            ]
+     },
+	 "custom.sarara3_6": {
+            "sounds": [
+                    "custom/sarara3_6"
+            ]
+     },
+	 "custom.zelda": {
+            "sounds": [
+                    "custom/zelda"
+            ]
+     },
+	 "custom.sarara1_1": {
+            "sounds": [
+                    "custom/sarara1_1"
+            ]
+     },
+	 "custom.sarara1_2": {
+            "sounds": [
+                    "custom/sarara1_2"
+            ]
+     },
+	 "custom.sarara1_3": {
+            "sounds": [
+                    "custom/sarara1_3"
+            ]
+     },
+	 "custom.sarara1_4": {
+            "sounds": [
+                    "custom/sarara1_4"
+            ]
+     },
+	 "custom.sarara1_5": {
+            "sounds": [
+                    "custom/sarara1_5"
+            ]
+     },
+	 "custom.sarara1_6": {
+            "sounds": [
+                    "custom/sarara1_6"
+            ]
+     },
+	 "custom.sarara1_7": {
+            "sounds": [
+                    "custom/sarara1_7"
+            ]
+     },
+	 "custom.sarara1_8": {
+            "sounds": [
+                    "custom/sarara1_8"
+            ]
+     },
+	 "custom.win": {
+            "sounds": [
+                    "custom/win"
+            ]
+     },
+	 "custom.pien": {
+            "sounds": [
+                    "custom/pien"
+            ]
+     }
+}
